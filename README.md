@@ -22,8 +22,8 @@ I'm a passionate software developer and a student at **FPT University**. My prim
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="45" height="45" alt="C#" />
   </a>
   &nbsp;
-  <a href="https://dotnet.microsoft.com/" target="_blank">
-    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" width="36" height="36" alt=".NET" />
   </a>
   &nbsp;
   <a href="https://learn.microsoft.com/en-us/sql/sql-server/" target="_blank">
