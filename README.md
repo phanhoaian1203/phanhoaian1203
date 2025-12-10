@@ -23,7 +23,7 @@ I'm a passionate software developer and a student at **FPT University**. My prim
   </a>
   &nbsp;
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" width="36" height="36" alt=".NET" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" width="45" height="45" alt=".NET" />
   </a>
   &nbsp;
   <a href="https://learn.microsoft.com/en-us/sql/sql-server/" target="_blank">
