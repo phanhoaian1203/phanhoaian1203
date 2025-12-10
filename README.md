@@ -49,10 +49,10 @@ Hi there, I'm Phan Hoài An! 👋<br><br>I'm a passionate software developer and
 
 <div align="center">
 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=[YOUR_USERNAME]&theme=dark" alt="Profile Details" style="max-width: 100%; margin-bottom: 10px;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=[phanhoaian1203]&theme=dark" alt="Profile Details" style="max-width: 100%; margin-bottom: 10px;" />
 
   <p>
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=[phanhoaian1203]&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   </p>
 </div>
 
