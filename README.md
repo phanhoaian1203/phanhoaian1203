@@ -23,7 +23,7 @@ I'm a passionate software developer and a student at **FPT University**. My prim
   </a>
   &nbsp;
   <a href="https://dotnet.microsoft.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dotnet-colored.svg" width="45" height="45" alt=".NET" />
+    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
   </a>
   &nbsp;
   <a href="https://learn.microsoft.com/en-us/sql/sql-server/" target="_blank">
