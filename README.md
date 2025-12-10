@@ -1,61 +1,82 @@
-# 💫 About Me:
-Hi there, I'm Phan Hoài An! 👋<br><br>I'm a passionate software developer and a student at FPT University. My primary focus is on **.NET ecosystem**, diving deep into **C#** and **ASP.NET**. Additionally, I have a solid background in **Java Spring Boot** and **SQL Server** for building robust backend systems.
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=[phanhoaian1203]&label=Profile%20views&color=0e75b6&style=flat" alt="PhanHoaiAn" /> </p>
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/[YOUR_INSTAGRAM_USER]) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/[YOUR_LINKEDIN_USER]) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:[YOUR_EMAIL_ADDRESS]) 
-
-# 💻 Tech Stack:
-<p align="center">
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" />
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" width="36" height="36" alt=".NET" />
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="36" height="36" alt="Microsoft SQL Server" />
-  </a>
-  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />
-  </a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/springboot-colored.svg" width="36" height="36" alt="Spring Boot" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" />
-  </a>
-</p>
-
-
-<h2>🚀 Profile Summary</h2>
-
-<p align="center">
-  <a href="[LINK_TO_YOUR_PORTFOLIO]" target="_blank" style="font-size: 18px; text-decoration: none; color: #3498db;">
-    🌐 Visit My Portfolio
-  </a>
-<br/>
-
-</p>
-
-
 <div align="center">
+  <h1 align="center">Hi there, I'm Phan Hoài An! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+  
+  <p align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Software+Developer;FPT+University+Student;.NET+Ecocysem+Lover;Backend+Developer" alt="Typing SVG" />
+    </a>
+  </p>
 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=[phanhoaian1203]&theme=dark" alt="Profile Details" style="max-width: 100%; margin-bottom: 10px;" />
-
-  <p>
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=[phanhoaian1203]&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <p align="center">
+    <a href="mailto:anph.work@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    <a href="https://www.linkedin.com/in/phanhoaian1203/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://instagram.com/phanhoaian1203"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    </a>
   </p>
 </div>
 
+<hr/>
 
-## Achievements
- [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-green?style=flat&logo=hackerrank)]([LINK_TO_YOUR_HACKERRANK])
+<table>
+  <tr>
+    <td valign="top" width="60%">
+      <h2>👨‍💻 About Me</h2>
+      <p>
+        I am a passionate software developer and a student at <b>FPT University Da Nang</b>. My primary focus is on the <b>.NET ecosystem</b>, diving deep into C# and ASP.NET.
+      </p>
+      <ul>
+        <li>🔭 I’m currently working on a <b>Movie Streaming Platform</b> (similar to FPTPlay).</li>
+        <li>🌱 I’m currently learning <b>Microservices & Cloud Architecture</b>.</li>
+        <li>⚡ Fun fact: I love Japanese culture and clean code.</li>
+      </ul>
+
+      <h2>🛠 Tech Stack</h2>
+      <p>Click on the icons to learn more about the technology:</p>
+      
+      <b>Core Specialization (.NET):</b><br/>
+      <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+        <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+      </a>
+      <a href="https://dotnet.microsoft.com/" target="_blank">
+        <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+      </a>
+      <a href="https://learn.microsoft.com/en-us/sql/sql-server/" target="_blank">
+        <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+      </a>
+      <br/><br/>
+
+      <b>Other Technologies:</b><br/>
+      <a href="https://spring.io/projects/spring-boot" target="_blank">
+        <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" alt="Spring Boot" />
+      </a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JS" />
+      </a>
+      <a href="https://getbootstrap.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+      </a>
+    </td>
+    
+    <td valign="top" width="40%">
+      <h2>📊 GitHub Stats</h2>
+      <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=phanhoaian1203&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="An's GitHub Stats" width="100%" />
+        <br/><br/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phanhoaian1203&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" width="100%" />
+      </div>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <p>Visitor count</p>
+  <img src="https://komarev.com/ghpvc/?username=phanhoaian1203&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
+  <br/>
+  <br/>
+  <a href="https://github.com/phanhoaian1203?tab=repositories">
+    <img src="https://img.shields.io/badge/Check%20out%20my%20repositories-Click%20Here-38BDF8?style=for-the-badge" alt="Repos"/>
+  </a>
+</div>
