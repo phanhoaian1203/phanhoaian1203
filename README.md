@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi there, I'm Phan Hoài An! 👋<br><br>I'm a passionate software developer and a student at FPT University. My primary focus is on **.NET ecosystem**, diving deep into **C#** and **ASP.NET**. Additionally, I have a solid background in **Java Spring Boot** and **SQL Server** for building robust backend systems.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=[YOUR_USERNAME]&label=Profile%20views&color=0e75b6&style=flat" alt="PhanHoaiAn" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=[phanhoaian1203]&label=Profile%20views&color=0e75b6&style=flat" alt="PhanHoaiAn" /> </p>
 
 
 ## 🌐 Socials:
