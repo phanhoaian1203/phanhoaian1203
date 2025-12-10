@@ -1,87 +1,61 @@
-<h1 align="center">Hi there, I'm Phan Hoài An! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+# 💫 About Me:
+Hi there, I'm Phan Hoài An! 👋<br><br>I'm a passionate software developer and a student at FPT University. My primary focus is on **.NET ecosystem**, diving deep into **C#** and **ASP.NET**. Additionally, I have a solid background in **Java Spring Boot** and **SQL Server** for building robust backend systems.
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=[YOUR_USERNAME]&label=Profile%20views&color=0e75b6&style=flat" alt="PhanHoaiAn" /> </p>
+
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/[YOUR_INSTAGRAM_USER]) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/[YOUR_LINKEDIN_USER]) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:[YOUR_EMAIL_ADDRESS]) 
+
+# 💻 Tech Stack:
+<p align="center">
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" />
+  </a>
+  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" width="36" height="36" alt=".NET" />
+  </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="36" height="36" alt="Microsoft SQL Server" />
+  </a>
+  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />
+  </a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/springboot-colored.svg" width="36" height="36" alt="Spring Boot" />
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
+  </a>
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" />
+  </a>
+</p>
+
+
+<h2>🚀 Profile Summary</h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[YOUR_GITHUB_USERNAME]&label=Profile%20Views&color=blue&style=flat" alt="phanhoaian-views" />
+  <a href="[LINK_TO_YOUR_PORTFOLIO]" target="_blank" style="font-size: 18px; text-decoration: none; color: #3498db;">
+    🌐 Visit My Portfolio
+  </a>
+<br/>
+
 </p>
 
-<h3 align="center">👨‍💻 Aspiring .NET Backend Developer</h3>
-
-<p align="center"> 
-  Tôi là sinh viên năm 4 chuyên ngành Kỹ thuật phần mềm tại <b>Đại học FPT</b>. <br>
-  Với niềm đam mê mãnh liệt trong việc xây dựng các hệ thống backend mạnh mẽ, tôi tập trung chuyên sâu vào hệ sinh thái <b>Microsoft .NET</b>. <br>
-  Bên cạnh đó, tôi có nền tảng vững chắc về Java Spring Boot và tư duy quản trị cơ sở dữ liệu.
-</p>
 
 <div align="center">
 
-| 🌱 Hiện tại | 🔭 Mục tiêu | 👯 Tìm kiếm |
-| :--- | :--- | :--- |
-| Đang chuyên sâu **ASP.NET Core** & **Architecture Patterns** | Trở thành một **Full-stack .NET Developer** chuyên nghiệp | Cơ hội **Internship/Fresher** về .NET |
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=[YOUR_USERNAME]&theme=dark" alt="Profile Details" style="max-width: 100%; margin-bottom: 10px;" />
 
+  <p>
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  </p>
 </div>
 
----
 
-## 🛠️ Tech Stack & Tools
-
-Tôi luôn tìm tòi và cập nhật các công nghệ mới, dưới đây là những công cụ tôi sử dụng thường xuyên:
-
-### 💻 Languages & Frameworks
-<p align="left">
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/" target="_blank">
-    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-  </a>
-  <a href="https://dev.java/" target="_blank">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  </a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank">
-    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  </a>
-</p>
-
-### 🗄️ Database & Tools
-<p align="left">
-  <a href="https://learn.microsoft.com/en-us/sql/sql-server/" target="_blank">
-    <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
-  </a>
-  <a href="https://www.mongodb.com/docs/" target="_blank">
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  </a>
-  <a href="https://git-scm.com/doc" target="_blank">
-    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  </a>
-  <a href="https://visualstudio.microsoft.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="VS" />
-  </a>
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="An's Github Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="180"/>
-</div>
-
----
-
-## 📫 Connect with me
-
-<div align="center">
-
-  <a href="[LINK_LINKEDIN_CỦA_BẠN]">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  
-  <a href="mailto:[EMAIL_CỦA_BẠN]">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-
-</div>
+## Achievements
+ [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-green?style=flat&logo=hackerrank)]([LINK_TO_YOUR_HACKERRANK])
