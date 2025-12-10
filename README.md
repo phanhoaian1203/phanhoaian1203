@@ -1,5 +1,11 @@
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Hi+There!+I'm+Phan+Hoai+An;A+Passionate+.NET+Developer;Student+at+FPT+University;Welcome+to+my+Profile!+%F0%9F%91%8B" alt="Typing SVG" />
+  </a>
+</div>
+
 # 💫 About Me:
-Hi there, I'm Phan Hoài An! 👋<br><br>I'm a passionate software developer and a student at FPT University. My primary focus is on **.NET ecosystem**, diving deep into **C#** and **ASP.NET**. Additionally, I have a solid background in **Java Spring Boot** and **SQL Server** for building robust backend systems.
+I'm a passionate software developer and a student at **FPT University**. My primary focus is on **.NET ecosystem**, diving deep into **C#** and **ASP.NET**. Additionally, I have a solid background in **Java Spring Boot** and **SQL Server** for building robust backend systems.
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=phanhoaian1203&label=Profile%20views&color=0e75b6&style=flat" alt="PhanHoaiAn" /> 
@@ -13,22 +19,35 @@ Hi there, I'm Phan Hoài An! 👋<br><br>I'm a passionate software developer and
 # 💻 Tech Stack:
 <p align="center">
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-    <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="45" height="45" alt="C#" />
   </a>
+  &nbsp;
   <a href="https://dotnet.microsoft.com/" target="_blank">
-    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dotnet-colored.svg" width="45" height="45" alt=".NET" />
   </a>
+  &nbsp;
   <a href="https://learn.microsoft.com/en-us/sql/sql-server/" target="_blank">
-    <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="45" height="45" alt="SQL Server" />
   </a>
+  &nbsp;
+  <a href="https://www.oracle.com/java/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="45" height="45" alt="Java" />
+  </a>
+  &nbsp;
   <a href="https://spring.io/projects/spring-boot" target="_blank">
-    <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" alt="Spring Boot" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/springboot-colored.svg" width="45" height="45" alt="Spring Boot" />
   </a>
+  &nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JS" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="45" height="45" alt="JavaScript" />
   </a>
+  &nbsp;
   <a href="https://getbootstrap.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="45" height="45" alt="Bootstrap" />
+  </a>
+  &nbsp;
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="45" height="45" alt="HTML5" />
   </a>
 </p>
 
@@ -36,19 +55,21 @@ Hi there, I'm Phan Hoài An! 👋<br><br>I'm a passionate software developer and
 
 <p align="center">
   <a href="#" target="_blank" style="font-size: 18px; text-decoration: none; color: #3498db;">
-    🌐 Visit My Portfolio
+    <b>🌐 Visit My Portfolio</b>
   </a>
 <br/>
 </p>
 
 <div align="center">
-  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phanhoaian1203&theme=dark" alt="Profile Details" style="width: 100%; margin-bottom: 10px;" />
 
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=phanhoaian1203&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+    <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=phanhoaian1203&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+    
+    <img align="right" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=phanhoaian1203&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </p>
 </div>
+<br clear="both"/>
 
 ## Achievements
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-green?style=flat&logo=hackerrank)](https://www.hackerrank.com/phanhoaian1203)
