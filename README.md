@@ -1,8 +1,4 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Hi+There!+I'm+Phan+Hoai+An;A+Passionate+.NET+Developer;Student+at+FPT+University;Welcome+to+my+Profile!+%F0%9F%91%8B" alt="Typing SVG" />
-  </a>
-</div>
+
 
 # 💫 About Me:
 I'm a passionate software developer and a student at **FPT University**. My primary focus is on **.NET ecosystem**, diving deep into **C#** and **ASP.NET**. Additionally, I have a solid background in **Java Spring Boot** and **SQL Server** for building robust backend systems.
